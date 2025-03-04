@@ -31,5 +31,11 @@ Did you know? **The first computer bug was a real insect!** 🐛
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+ 🐍 Github Contribution 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sxincode/Sxincode/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sxincode/Sxincode/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sxincode/Sxincode/output/github-contribution-grid-snake.svg">
+</picture>
 
 Let's connect and collaborate! 🚀
