@@ -10,6 +10,11 @@ I'm a **B.Tech CSE student** in my final semester, passionate about **Full-Stack
 - **Machine Learning**: OpenCV, PyTorch, TensorFlow
 - **Tools**: Git, Docker, Linux, VS Code
 
+<div align="center">
+<!--   <h3>💫 Tech Mastery</h3> -->
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,python,nodejs,aws,mongodb,docker,git,vim&theme=dark" alt="Tech Stack"/>
+</div>
+
 ## 📊 GitHub Stats
 ![Anshul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshulsm12&show_icons=true&theme=radical)
 
