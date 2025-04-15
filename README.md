@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 <img align="right" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="150" alt="Programming GIF">
-I'm a **B.Tech CSE student** in my final semester, passionate about **Full-Stack Development, Machine Learning , and Open Source**. I love building projects and contributing to repositories that solve real-world problems!
+I'm a **B.Tech CSE student** in my final semester, passionate about **Full-Stack Development, Machine Learning, and Open Source**. I love building projects and contributing to repositories that solve real-world problems!
 
 ## 💻 Tech Stack
 - **Languages**: Python, JavaScript, C++
