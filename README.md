@@ -73,3 +73,8 @@ Did you know? **The first computer bug was a real insect!** 🐛
 </picture>
 
 Let's connect and collaborate! 🚀
+
+<!-- Footer Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,FF6B00,FF4500,FF0000&height=150&section=footer&animation=fadeIn&fontSize=50" width="100%"/>
+</div>
