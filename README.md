@@ -1,13 +1,18 @@
-# Hi there, I'm Anshul! 👋
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=4000&pause=1500&color=9370DB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anshul!" alt="Typing SVG" />
+  <br>
+<img align="center" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="30%" alt="Programming GIF">
+</div>
+
+
 
 ## 🚀 About Me
-<img align="right" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="150" alt="Programming GIF">
-I'm a **B.Tech CSE student** in my final semester, passionate about **Full-Stack Development, Machine Learning, and Open Source**. I love building projects and contributing to repositories that solve real-world problems!
+
+I'm a Passionate Software Engineer with a knack for problem-solving, seeking opportunities to harness the power of code and contribute to the digital revolution, I love building projects and contributing to repositories that solve real-world problems!
 
 ## 💻 Tech Stack
 - **Languages**: Python, JavaScript, C++
 - **Frameworks**: React, Next.js, Node.js
-- **Machine Learning**: OpenCV, PyTorch, TensorFlow
 - **Tools**: Git, Docker, Linux, VS Code
 
 <div align="center">
@@ -20,6 +25,30 @@ I'm a **B.Tech CSE student** in my final semester, passionate about **Full-Stack
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Anshulsm12&theme=darkhub)
+
+<div align="center">
+  <h3>📜 Certifications</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img width="100" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS Cloud Practitioner"/><br />
+        AWS Cloud Practitioner
+      </td>
+      <td align="center">
+        <img width="100" src="https://img.icons8.com/color/480/null/c-plus-plus-logo.png"/><br />
+        C++ Enthusiast
+      </td>
+      <td align="center">
+        <img width="100" src="https://img.icons8.com/color/480/null/sql.png" alt="SQL"/><br />
+        SQL Intermediate
+      </td>
+      <td align="center">
+        <img width="100" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="Problem Solving"/><br />
+        Problem Solving
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🌱 Fun Fact
 Did you know? **The first computer bug was a real insect!** 🐛
