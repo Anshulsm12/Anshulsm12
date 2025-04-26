@@ -54,7 +54,7 @@ I'm a Passionate Software Engineer with a knack for problem-solving, seeking opp
 Did you know? **The first computer bug was a real insect!** 🐛
 
 ## 📫 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/anshul-singh-mehra-627019226/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
