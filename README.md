@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=4000&pause=1500&color=015666&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anshul!" alt="Typing SVG" />
   <br>
 <img align="center" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="35%" alt="Programming GIF">
